@@ -1,0 +1,9 @@
+¡¡Bienvenidos al juego Math Factors!!
+
+Es un juego bastante sencillo y enfocado en el área educativo para estudiantes que esten iniciando con el tema de factorizaciones o bien para estudiantes que ya lo han dado, como ayuda para practicar las factorizaciones.
+
+El juego presenta 3 casos de factorizaciones: factorizaciones de la forma x^2+bx+c, factorizaciones de diferencia de cuadrados y los trinomios cuadrados perfectos.
+
+Utilice los números que sean indicados en las opciones para acceder a cada uno de los modos de juego.
+
+En el caso de la calculadora usando la fórmula general, hay que recordar que una ecuación cuadrática consta con sus coeficientes, se puede ver de esta manera: ax^2 + bx + c. Es por esto que deben introducir justamente los valores para las coeficientes a, b y c.
