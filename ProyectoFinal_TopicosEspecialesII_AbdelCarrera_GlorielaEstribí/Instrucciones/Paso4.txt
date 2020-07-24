@@ -1,0 +1,1 @@
+Hacer doble click en el archivo main.py
